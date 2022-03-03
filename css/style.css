@@ -1,0 +1,6 @@
+/* stylesheet for second three JS website */
+@import url(https://threejs.org/build/three.js);
+
+body {
+    margin: 0;
+}
